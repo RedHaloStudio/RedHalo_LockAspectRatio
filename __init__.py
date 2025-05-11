@@ -24,7 +24,7 @@ bl_info = {
     "location": "Properties > Output Properties > Format Panel",
     "description": "Locks the render resolution aspect ratio. When locked, adjusting X or Y will proportionally adjust the other.",
     "warning": "",
-    "doc_url": "",
+    "doc_url": "https://github.com/RedHaloStudio/RedHalo_LockAspectRatio",
     "category": "Render",
 }
 
