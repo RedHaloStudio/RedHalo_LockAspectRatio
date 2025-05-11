@@ -11,7 +11,7 @@ maintainer = "RedHaloStudio 发霉的红地蛋 <redhalostudio@outlook.com>"
 type = "add-on"
 
 # # Optional: link to documentation, support, source files, etc
-website = "https://github.com/RedHaloStudio/lock_render_ratio"
+website = "https://github.com/RedHaloStudio/RedHalo_LockAspectRatio"
 
 blender_version_min = "4.2.0"
 # # Optional: Blender version that the extension does not support, earlier versions are supported.
